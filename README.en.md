@@ -8,9 +8,9 @@ Web application to manage shared expenses among participants.
 
 ## Project Status
 
-🚧 Phase 1: Requirements analysis *(In progress)*
+✅ Phase 1: Requirements analysis
 
-❌ Phase 2: Prototyping
+🚧 Phase 2: Prototyping *(In progress)*
 
 ❌ Phase 3: HTML/CSS Layout
 

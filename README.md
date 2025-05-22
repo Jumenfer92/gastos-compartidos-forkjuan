@@ -10,9 +10,9 @@ Aplicación web para gestionar gastos compartidos entre participantes.
 
 ## Estado del proyecto
 
-🚧 Fase 1: Análisis de requisitos *(En curso)* 
+✅ Fase 1: Análisis de requisitos 
 
-❌ Fase 2: Prototipado
+🚧 Fase 2: Prototipado *(En curso)* 
 
 ❌ Fase 3: Maquetación HTML/CSS
 
